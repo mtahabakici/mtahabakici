@@ -23,6 +23,4 @@
 
 
 
-
-
 ![snake gif](https://github.com/mtahabakici/mtahabakici/blob/output/github-contribution-grid-snake.gif)
