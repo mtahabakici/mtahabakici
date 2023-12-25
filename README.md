@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbidb.subu.edu.tr%2Ftr%2Fyazilim-uygulama-ve-gelistirme&psig=AOvVaw2vsMwOflHrjuByE853C3BN&ust=1703587566330000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC13bW0qoMDFQAAAAAdAAAAABAD)
+![MasterHead](https://img.tamindir.com/resize/1200x675/2023/01/476730/yazilim-dilleri.jpg)
+
 <h1 align="center">Hi 👋, I'm Muhammed Taha Bakıcı</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
