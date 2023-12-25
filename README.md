@@ -20,3 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtahabakici&show_icons=true&locale=en" alt="mtahabakici" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtahabakici&" alt="mtahabakici" /></p>
+
+
+
+
+
+![snake gif](https://github.com/mtahabakici/mtahabakici/blob/output/github-contribution-grid-snake.gif)
